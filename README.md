@@ -4,14 +4,6 @@ Problem Statement: Rental Management
 
 Rental application streamlines the entire rental process. It provides a unified platform to manage products, schedule pickups. Online booking and reservations are done through a website portal, Customers can shop available products, reserve their selected dates, and checkout right on the website. Whether you rent by the hour, week, month or year, create customized pricing for every product based on different time frames
 
-## Team
-
-- Team Number: 74
-- Team Members:
-    - Shravan Nander Pandala (Team Lead)
-    - Pranav S
-    - Karthik Krishna
-    - Athul Anoop
 
 ## Technologies
 
@@ -59,3 +51,4 @@ Note: the client and server applications maybe independently dockerized using a 
 2. Run `pnpm docker:prod` to build and deploy the application using Docker Compose
 
 If required, update the `.env` file in the root directory to configure the port mapping and deployment environment.
+
